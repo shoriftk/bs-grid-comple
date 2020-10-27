@@ -1,0 +1,26 @@
+
+
+
+/*general css*/
+body{
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.sec{
+	background-color: steelblue;
+	min-height: 80px;
+	margin-top: 5px;
+}
+/*general css*/
+
+.box{
+	background-color: red;
+	min-height: 70px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.ccolo{
+	background-color: yellow;
+}
